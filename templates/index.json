@@ -15,6 +15,7 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify://shop_images/5.png",
             "img_desktop": "shopify://shop_images/gridclubwear.com_banner.png",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
@@ -31,6 +32,7 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
+            "img_desktop": "shopify://shop_images/gridclubwear.com_banner2.webp",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -62,10 +64,10 @@
         "carousel_transition": "slide",
         "carousel_transition_duration": 500,
         "carousel_autoplay": 5,
-        "carousel_effect": "carousel-zoom-in",
+        "carousel_effect": "",
         "media_mobile_height": 500,
         "media_desktop_height": 700,
-        "media_adapt": false,
+        "media_adapt": true,
         "media_full": true,
         "caption_max_width": "900",
         "caption_position": "carousel-caption-center",
